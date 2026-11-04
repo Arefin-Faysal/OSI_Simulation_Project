@@ -1,5 +1,0 @@
-*.o
-osi
-client
-server
-__pycache__/
